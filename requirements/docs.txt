@@ -2,5 +2,5 @@
 sphinxcontrib-httpdomain==1.7.0
 docutils==0.16
 Pygments==2.7.4
-Sphinx==3.2.1
+Sphinx==3.3.0
 sphinx_rtd_theme==0.5.0
